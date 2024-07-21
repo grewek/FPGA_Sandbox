@@ -22,3 +22,11 @@ Will contain my notes about programming a fpga, also excerpts about the mentione
 Are the actual Projects and will contain all sources and other necessary stuff
 
 All Projects will be developed in their own branches and then merged into main!
+
+
+
+## Issues
+
+The FPGA Devboard is dead after flashing the example from their Website...
+so i will fallback into simulation...i wasted the whole weekend trying to get
+the FPGA to run again but no luck...
